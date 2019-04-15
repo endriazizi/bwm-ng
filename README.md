@@ -112,7 +112,25 @@ git branch
 
 //TO SWITCH BRANCH
 git checkout master
+git add .
+git add ./????
 git commit -m "first commit"
+git push -u origin master
+
+git checkout header-component
+git commit -m "first commit"
+git add .
+git push -u origin header-component
+
+
+
+./ -> ACTUAL FOLDER
+../ -> Different FOLDER
+
+
+npm i bootstrap@4.1.0 --save
+
+@ -32 2.40
 
 # AngularStarter
 
