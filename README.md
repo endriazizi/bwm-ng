@@ -118,9 +118,9 @@ git commit -m "first commit"
 git push -u origin master
 
 git checkout header-component
-git commit -m "first commit"
 git add .
-git push -u origin header-component
+git commit -m "first commit"
+git push -u header-component
 
 
 
